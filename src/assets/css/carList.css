@@ -1,0 +1,25 @@
+#row-title {
+  margin-bottom: 2rem;
+}
+
+#row-category {
+  margin-bottom: 1rem;
+}
+
+#row-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#spin-car {
+  margin-top: 8rem;
+}
+.btn-add-new {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.search-result {
+  margin-bottom: 1rem;
+}
